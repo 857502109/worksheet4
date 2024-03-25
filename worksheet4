@@ -1,0 +1,8 @@
+[user@pc]$ git config --global user.name "Jiang Xiandong" 
+[user@pc]$ git config --global user.email "21868344@learning.curtin.edu.sg" 
+[user@pc]$ ls -a
+[user@pc]$ git status 
+[user@pc]$ git add Maze.py 
+[user@pc]$ git status
+[user@pc]$ git commit -m "Initial commit." 
+[user@pc]$ git status
